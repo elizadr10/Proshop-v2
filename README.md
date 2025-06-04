@@ -1,7 +1,7 @@
 # Sample Proshop
 
 Mock Website that sells products, creates users, and checks out orders. 
-Build with Brad Traversy's Udemy course
+Built with Brad Traversy's Udemy course
 
 ### `npm run build`
 
